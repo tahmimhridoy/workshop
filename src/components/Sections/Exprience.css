@@ -1,0 +1,63 @@
+.common-margin{
+    margin: 100px 0px;
+}
+.img-box{
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+}
+.img-box img{
+    margin: 0px 3.5px 10px;
+}
+.year{
+    position: absolute;
+    right: -30px;
+    bottom: -20px;
+    background-color: #fff;
+    padding: 18px 0 18px 0px;
+    height: 150px;
+    width: 110px;
+    color: #ee0d09;
+    text-align: center;
+    z-index: 9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.year strong{
+    font-size: 50px;
+    font-weight: 800;
+}
+.text-container{
+    margin-left: 50px;
+    font-family: 'Yantramanav', sans-serif;
+}
+.text-title h5{
+    color: #001659;
+    line-height: 1.25em;
+    margin-bottom: 0px;
+}
+.text-title h2{
+    color: #001659;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    position: relative;
+}
+.text-title h2::before{
+    content: '';
+    width: 85px;
+    height: 2px;
+    background-color: #ee0d09;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.text{
+    color: #797979;
+    line-height: 26px;
+    font-weight: 400;
+    margin: 25px 0 15px;
+    font-size: 17px;
+}

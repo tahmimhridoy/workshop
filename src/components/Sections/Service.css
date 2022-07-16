@@ -1,0 +1,55 @@
+.service-section{
+    background: #f5f4f7 url('../../images/pattern.png');
+    width: 100%;
+    padding: 100px 0 170px;
+}
+.section-title h2{
+    color: #06175b;
+    font-size: 40px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 20px;
+}
+.section-title p{
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 18px;
+    color: #797979;
+}
+.block-one{
+    background-color: #fff;
+    padding: 45px 33px 40px;
+    border-bottom: 3px solid #ee0d09;
+    font-family: 'Yantramanav', sans-serif;
+    position: relative;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin-top: 40px;
+}
+.block-one p{
+    text-transform: uppercase;
+    color: #001659;
+    font-size: 15px;
+}
+.block-one h2{
+    margin-top: -20px;
+    font-size: 26px;
+    color: #001659;
+    margin-bottom: 50px;
+}
+.read-me{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #ee0d09;
+}
+.icon{
+    position: absolute;
+    right: 33px;
+    bottom: 25px;
+    font-size: 60px;
+    float: right;
+    color: #797979;
+}
