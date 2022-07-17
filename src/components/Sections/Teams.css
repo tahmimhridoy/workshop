@@ -1,0 +1,22 @@
+.team-single h5{
+    margin-top: 15px;
+    color: #06175b;
+    font-size: 21px;
+    font-family: 'Yantramanav', sans-serif;
+    display: inline-block;
+    position: relative;
+}
+.team-single h5::before{
+    content: '';
+    width: 40px;
+    height: 2px;
+    background-color: #ee0d09;
+    position: absolute;
+    right: -50px;
+    bottom: 6px;
+}
+.team-single p{
+    font-size: 14px;
+    margin-top: -10px;
+    color: #06175b;
+}

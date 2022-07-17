@@ -1,0 +1,43 @@
+.video-section{
+    background-image:  url('../../images/bg-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 130px 0 120px;
+    color: white;
+    font-family: 'Yantramanav', sans-serif;
+}
+.video-section h5{
+    position: relative;
+    display: inline-block;
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.video-section h5::before{
+    content: '';
+    background-color: #ee0d09;
+    width: 40px;
+    height: 2px;
+    position: absolute;
+    bottom: 7px;
+    right: -55px;
+}
+.video-section h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: -5px;
+}
+.video-box{
+    display: flex;
+    align-items: center;
+}
+.video-btn{
+    font-size: 60px;
+    padding-right: 10px;
+    color: #ee0d09;
+}
+.video-text{
+    margin-top: 22px;
+}

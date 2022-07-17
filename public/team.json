@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "img": "http://el.commonsupport.com/newwp/autorex/wp-content/uploads/2021/02/team-1.jpg",
+        "name": "Michale Joe",
+        "job": "MAIN SUPERVISOR"
+    },
+    {
+        "id": "2",
+        "img": "http://el.commonsupport.com/newwp/autorex/wp-content/uploads/2021/02/team-2.jpg",
+        "name": "Mark John",
+        "job": "MAIN MECHANIC"
+    },
+    {
+        "id": "3",
+        "img": "http://el.commonsupport.com/newwp/autorex/wp-content/uploads/2021/02/team-3.jpg",
+        "name": "Merry Desulva",
+        "job": "MAIN SUPERVISOR"
+    },
+    {
+        "id": "4",
+        "img": "http://el.commonsupport.com/newwp/autorex/wp-content/uploads/2021/02/team-4.jpg",
+        "name": "John michale",
+        "job": "JUNIOR HELPER"
+    }
+]

@@ -4,6 +4,8 @@ import ChooseUs from '../Sections/ChooseUs';
 import Exprience from '../Sections/Exprience';
 import QualityService from '../Sections/QualityService';
 import Service from '../Sections/Service';
+import Team from '../Sections/Team';
+import Video from '../Sections/Video';
 
 const Home = () => {
     return (
@@ -13,6 +15,8 @@ const Home = () => {
             <Service />
             <QualityService />
             <ChooseUs />
+            <Video />
+            <Team />
         </div>
     );
 };
