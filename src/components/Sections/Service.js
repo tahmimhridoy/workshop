@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Service.css';
-import { FaAccessibleIcon, FaBalanceScaleLeft, FaDribbble, FaHive, FaKeycdn, FaMandalorian, FaTheRedYeti } from "react-icons/fa";
+import { FaAccessibleIcon, FaBalanceScaleLeft, FaDribbble, FaHive, FaKeycdn, FaMandalorian } from "react-icons/fa";
 
 const Service = () => {
     return (
