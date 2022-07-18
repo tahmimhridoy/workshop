@@ -3,6 +3,7 @@ import Banner from '../Sections/Banner';
 import Carousel from '../Sections/Carousel';
 import ChooseUs from '../Sections/ChooseUs';
 import Exprience from '../Sections/Exprience';
+import Guarantee from '../Sections/Guarantee';
 import QualityService from '../Sections/QualityService';
 import Repire from '../Sections/Repire';
 import Service from '../Sections/Service';
@@ -21,6 +22,7 @@ const Home = () => {
             <Team />
             <Carousel />
             <Repire />
+            <Guarantee />
         </div>
     );
 };

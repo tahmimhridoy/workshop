@@ -1,0 +1,31 @@
+.guarantee-section{
+    padding: 70px 0px 90px 0px;
+}
+.guarantee-text h2 span{
+    color: #ee0d09;
+    font-family: 'Yantramanav', sans-serif;
+}
+.guarantee-text h2{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 45px;
+    color: #001659;
+}
+.guarantee-icon{
+    font-size: 40px;
+    color: #f85755;
+    margin-bottom: 15px;
+}
+.guarantee-card{
+    font-family: 'Yantramanav', sans-serif;
+}
+.guarantee-card h5{
+    font-size: 22px;
+    color: #001659;
+    margin-bottom: 0px;
+}
+.guarantee-card p{
+    font-size: 17px;
+    color: #797979;
+    line-height: 22px;
+}
