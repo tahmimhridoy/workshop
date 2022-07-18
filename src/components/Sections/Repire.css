@@ -1,0 +1,47 @@
+.repire-section{
+    background-color: #ee0d09;
+    width: 88%;
+    padding: 60px 100px 70px 100px;
+    margin-top: -50px;
+    position: relative;
+    top: -10px;
+}
+.form-container select{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px 5px;
+}
+.get-btn{
+    width: 100%;
+    padding: 10px 5px;
+    border: none;
+    background-color: #ac0b08;
+    color: #fff;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.repire-title{
+    padding-top: 30px;
+    color: #fff;
+    font-family: 'Yantramanav', sans-serif;
+}
+.repire-title h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.repire-title p{
+    font-size: 17px;
+    margin-top: -5px;
+    position: relative;
+    padding-bottom: 8px;
+}
+.repire-title p::before{
+    content: '';
+    width: 50px;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}

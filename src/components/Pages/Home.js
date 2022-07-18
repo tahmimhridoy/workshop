@@ -4,6 +4,7 @@ import Carousel from '../Sections/Carousel';
 import ChooseUs from '../Sections/ChooseUs';
 import Exprience from '../Sections/Exprience';
 import QualityService from '../Sections/QualityService';
+import Repire from '../Sections/Repire';
 import Service from '../Sections/Service';
 import Team from '../Sections/Team';
 import Video from '../Sections/Video';
@@ -19,6 +20,7 @@ const Home = () => {
             <Video />
             <Team />
             <Carousel />
+            <Repire />
         </div>
     );
 };
