@@ -1,0 +1,50 @@
+.carousel-section{
+    background-image: url('../../images/bg-3.png');
+    padding: 80px 0px 192px;
+    background-color: #08194a;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.carousel-container{
+    width: 720px;
+    float: right;
+    display: flex;
+}
+.img-wrapper{
+    margin-right: 40px;
+}
+.img-wrapper img{
+    border-radius: 50%;
+}
+.quote{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ee0d09;
+    font-size: 100px;
+    font-weight: 700;
+    position: relative;
+    top: 28px;
+    left: 30px;
+    line-height: 70px;
+}
+.content-wrapper p{
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+.author{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.author h5{
+    font-family: 'Yantramanav', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: -3px;
+}
+.author p{
+    font-size: 15px;
+    color: #a9c4e0;
+    padding-left: 10px;
+}

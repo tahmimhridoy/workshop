@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from '../Sections/Banner';
+import Carousel from '../Sections/Carousel';
 import ChooseUs from '../Sections/ChooseUs';
 import Exprience from '../Sections/Exprience';
 import QualityService from '../Sections/QualityService';
@@ -17,6 +18,7 @@ const Home = () => {
             <ChooseUs />
             <Video />
             <Team />
+            <Carousel />
         </div>
     );
 };
