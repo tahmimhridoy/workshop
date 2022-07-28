@@ -7,6 +7,7 @@ import Gallery from './components/Pages/Gallery';
 import News from './components/Pages/News';
 import Contact from './components/Pages/Contact';
 import { Routes, Route,} from "react-router-dom";
+import Footer from './components/Sections/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path='/news' element={<News></News>}></Route>
         <Route path='/contact' element={<Contact></Contact>}></Route>
       </Routes>
+      <Footer />
     </div>
   );
 }

@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from '../Sections/Banner';
+import Blog from '../Sections/Blog';
 import Carousel from '../Sections/Carousel';
 import ChooseUs from '../Sections/ChooseUs';
 import Exprience from '../Sections/Exprience';
@@ -23,6 +24,7 @@ const Home = () => {
             <Carousel />
             <Repire />
             <Guarantee />
+            <Blog />
         </div>
     );
 };

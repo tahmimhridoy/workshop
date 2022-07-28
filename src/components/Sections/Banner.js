@@ -23,8 +23,8 @@ const Banner = () => {
                         <div className="slide1">
                             <div className="swiper-wrapper">
                                 <div className="swiper-text">
-                                    <h1>Tuneup Your Car <br /> to Next Level</h1>
-                                    <p>We believe in providing top quality workmanship and are <br /> so confident in our level of service that we back it up <br /> with a good quality.</p>
+                                    <h1>Tuneup Your Car to Next Level</h1>
+                                    <p>We believe in providing top quality workmanship and are so confident in our level of service that we back it up with a good quality.</p>
                                     <div className="link-box">
                                         <Link to='/' className='common-btn'><span>views all services</span></Link>
                                     </div>
@@ -37,7 +37,7 @@ const Banner = () => {
                             <div className="swiper-wrapper">
                                 <div className="swiper-text">
                                     <h1>Highly Skilled Certified Engineers</h1>
-                                    <p>We believe in providing top quality workmanship and are <br /> so confident in our level of service that we back it up <br /> with a good quality.</p>
+                                    <p>We believe in providing top quality workmanship and are so confident in our level of service that we back it up with a good quality.</p>
                                     <div className="link-box">
                                         <Link to='/about' className='common-btn'><span>views all services</span></Link>
                                     </div>
@@ -50,7 +50,7 @@ const Banner = () => {
                             <div className="swiper-wrapper">
                                 <div className="swiper-text">
                                     <h1>Mordren Workshop for car Repair</h1>
-                                    <p>We believe in providing top quality workmanship and are <br /> so confident in our level of service that we back it up <br /> with a good quality.</p>
+                                    <p>We believe in providing top quality workmanship and are so confident in our level of service that we back it up with a good quality.</p>
                                     <div className="link-box">
                                         <Link to='/' className='common-btn'><span>views all services</span></Link>
                                     </div>

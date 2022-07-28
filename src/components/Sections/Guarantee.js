@@ -7,7 +7,7 @@ const Guarantee = () => {
         <section className="guarantee-section">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 my-5">
                         <div className="guarantee-text">
                             <h2><span>100%</span> <br /> Satisfaction Guarantee</h2>
                         </div>
@@ -19,7 +19,7 @@ const Guarantee = () => {
                             <p>Our Repair Services offers quality help programs for any vehicles that permit them to consistently.</p>
                         </div>
                     </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 my-5">
                         <div className="guarantee-card">
                             <FaCarSide className='guarantee-icon'/>
                             <h5>All Car Makes</h5>

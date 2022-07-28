@@ -53,3 +53,17 @@
     float: right;
     color: #797979;
 }
+@media only screen and (min-width: 380px) and (max-width: 576px) {
+    .card-container{
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 40px;
+        margin: 30px 20px
+    }
+    .section-title h2{
+        text-align: center;
+    }
+    .section-title p{
+        margin: 0px 20px;
+        text-align: justify;
+    }
+}

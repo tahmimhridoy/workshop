@@ -61,3 +61,15 @@
     margin: 25px 0 15px;
     font-size: 17px;
 }
+@media only screen and (min-width: 380px) and (max-width: 576px) {
+    .text-container{
+        margin: 50px 20px 10px;
+    }
+    .img-box{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .year{
+        right: 10px;
+    }
+}

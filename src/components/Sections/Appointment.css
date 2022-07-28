@@ -1,0 +1,27 @@
+.appointment{
+    padding: 80px 0px 90px 0px;
+}
+.appointment-wrapper{
+    background-color: #ee0d09;
+    padding: 37px 30px 13px 50px;
+    color: #fff;
+}
+.phone{
+    margin-top: 10px;
+}
+.book{
+    border: none;
+    padding: 19px 45px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.book-appointment{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+@media only screen and (min-width: 380px) and (max-width: 576px) {
+    .phone{
+        display: none;
+    }
+}

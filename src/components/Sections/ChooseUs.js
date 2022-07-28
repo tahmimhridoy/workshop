@@ -43,7 +43,7 @@ const ChooseUs = () => {
                             <h2 className='cmn-h2'>Addtional Services</h2>
                             <div className="row mt-5">
                                 <div className="col-lg-5">
-                                   <img src={image_4} alt="" /> 
+                                   <img className='respon' src={image_4} alt="" /> 
                                 </div>
                                 <div className="col-lg-7">
                                     <ul className='facility'>

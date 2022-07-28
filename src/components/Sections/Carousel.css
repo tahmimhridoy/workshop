@@ -48,3 +48,23 @@
     color: #a9c4e0;
     padding-left: 10px;
 }
+@media only screen and (min-width: 380px) and (max-width: 576px) {
+    .carousel-container{
+        max-width: 100%;
+        padding-right: 20px;
+    }
+    .img-wrapper img{
+        width: 70px;
+    }
+    .img-wrapper{
+        margin-right: 20px;
+    }
+    .content-wrapper p{
+        font-family: 'Yantramanav', sans-serif;
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .quote{
+        top: 110px;
+    }
+}

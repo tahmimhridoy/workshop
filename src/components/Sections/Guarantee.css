@@ -29,3 +29,11 @@
     color: #797979;
     line-height: 22px;
 }
+@media only screen and (min-width: 380px) and (max-width: 576px) {
+    .guarantee-card{
+        text-align: center;
+    }
+    .guarantee-text{
+        text-align: center;
+    }
+}
